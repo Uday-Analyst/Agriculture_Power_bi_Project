@@ -48,3 +48,5 @@ This project demonstrates how Power BI can transform raw agricultural datasets i
 ![Dashboard Screenshot2](Assets/Crop_Analysis.png)
 
 ![Dashboard Screenshot3](Assets/State_wise_Production.png)
+
+See on Linkdin :-https://www.linkedin.com/posts/uday-kakad-045976322_powerbi-dataanalytics-dashboard-activity-7460210837564084225-0SjC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFGoK7UBdOtGb27rS8_rCE-uogb9uftbs7A
